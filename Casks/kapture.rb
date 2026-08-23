@@ -1,6 +1,6 @@
 cask "kapture" do
-  version "1.4.0"
-  sha256 "5e6a29507acb85b8e61e9c56b23ddc612f26cb939754ea27c2adac64a7e42393"
+  version "1.4.1"
+  sha256 "2e37d227380a9ff86268ff148f2cd6bcdeeff39d72e2930dbc384d43531e609f"
 
   url "https://github.com/TZGyn/kapture/releases/download/v#{version}/Kapture.zip"
   name "Kapture"
